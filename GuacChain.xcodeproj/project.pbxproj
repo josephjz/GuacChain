@@ -13,6 +13,7 @@
 		441DCC4F257BFFDC0098FA63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 441DCC4D257BFFDC0098FA63 /* Main.storyboard */; };
 		441DCC51257BFFDD0098FA63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 441DCC50257BFFDD0098FA63 /* Assets.xcassets */; };
 		441DCC54257BFFDD0098FA63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 441DCC52257BFFDD0098FA63 /* LaunchScreen.storyboard */; };
+		442A3A53257C1402009A6EC4 /* CurrencyRate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442A3A52257C1402009A6EC4 /* CurrencyRate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		441DCC50257BFFDD0098FA63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		441DCC53257BFFDD0098FA63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		441DCC55257BFFDD0098FA63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		442A3A52257C1402009A6EC4 /* CurrencyRate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyRate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				441DCC47257BFFDC0098FA63 /* AppDelegate.swift */,
 				441DCC49257BFFDC0098FA63 /* SceneDelegate.swift */,
+				442A3A52257C1402009A6EC4 /* CurrencyRate.swift */,
 				441DCC4B257BFFDC0098FA63 /* ViewController.swift */,
 				441DCC4D257BFFDC0098FA63 /* Main.storyboard */,
 				441DCC50257BFFDD0098FA63 /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				442A3A53257C1402009A6EC4 /* CurrencyRate.swift in Sources */,
 				441DCC4C257BFFDC0098FA63 /* ViewController.swift in Sources */,
 				441DCC48257BFFDC0098FA63 /* AppDelegate.swift in Sources */,
 				441DCC4A257BFFDC0098FA63 /* SceneDelegate.swift in Sources */,
